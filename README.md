@@ -1,11 +1,11 @@
-# Airline-Sentiment-Analysis-and-Loyalty-Prediction-using-Twitter-Data
+Sentiment-Analysis-and-Visualization-of-Tweets-Related-to-Airline
 
 
 *************************************************************************************************
-This is work is on analysis of Airline tweets for sentiments and performing loyalty prediction.
+This is work is on analysis of Sentiment Analysis and Visualization of Tweets Related to Airline
 *************************************************************************************************
 
-The research on consumer loyalty evaluation using twitter data is appeared in:
+A part of this work appeared in the research paper:
 http://thesai.org/Publications/ViewPaper?Volume=9&Issue=6&Code=IJACSA&SerialNo=52
 
 Cite the Work
